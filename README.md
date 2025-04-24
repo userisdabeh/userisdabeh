@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dave Gagala</h1>
+<h1 align="center">Hi, I'm Dave Gagala</h1>
 <h3 align="center">A third-year BS Information Technology Student at De La Salle University, Manila in the Philippines.</h3>
 
 - 🌱 I’m currently learning **node.js**
